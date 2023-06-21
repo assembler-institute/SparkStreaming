@@ -1,0 +1,21 @@
+###########################
+## BLOQUE 5. Spark Streaming
+###########################
+
+# Video sobre diferentes tipos de Streams
+youtube.com/watch?v=coqxOOeM3KA
+
+# Video sobre introducción a Spark Streaming y ejemplo streaming Socket
+https://www.youtube.com/watch?v=51UHBURng0o
+
+# Video sobre stateful operations en Spark Streaming
+https://www.youtube.com/watch?v=j1Q7BsOMhG8
+
+# Documentación sobre spark Streaming
+https://spark.apache.org/docs/latest/streaming-programming-guide.html
+
+# Documentación sobre Azure Databricks Streaming
+https://learn.microsoft.com/es-es/azure/hdinsight/spark/apache-spark-streaming-high-availability
+
+# Tutorial sobre Spark Streaming
+https://sparkbyexamples.com/apache-spark-streaming-tutorial/
