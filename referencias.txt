@@ -1,5 +1,5 @@
 ###########################
-## BLOQUE 5. Spark Streaming
+##    Spark Streaming
 ###########################
 
 # Video sobre diferentes tipos de Streams
