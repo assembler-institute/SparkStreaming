@@ -13,7 +13,6 @@ This repository contains materials related to Spark Streaming, a real-time data 
 Please note that the provided notebooks are written in Scala, a programming language commonly used with Spark.
 
 
-
 ### License
 
-This repository is licensed under the MIT License. You are free to use the references and resources provided in "referencias.txt" for personal or educational purposes.
+You are free to use the materials in this repository for personal or educational purposes.
